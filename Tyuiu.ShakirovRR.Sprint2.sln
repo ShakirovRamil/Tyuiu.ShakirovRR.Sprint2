@@ -61,11 +61,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakirovRR.Sprint2.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakirovRR.Sprint2.Task6.V10.Test", "Tyuiu.ShakirovRR.Sprint2.Task6.V10.Test\Tyuiu.ShakirovRR.Sprint2.Task6.V10.Test.csproj", "{AB311A50-3B69-4505-8778-7618BE550F69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakirovRR.Sprint2.Task7.V4", "Tyuiu.ShakirovRR.Sprint2.Task7.V4\Tyuiu.ShakirovRR.Sprint2.Task7.V4.csproj", "{255A9853-8047-4C59-A22A-661B4B87789B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakirovRR.Sprint2.Task7.V8", "Tyuiu.ShakirovRR.Sprint2.Task7.V4\Tyuiu.ShakirovRR.Sprint2.Task7.V8.csproj", "{255A9853-8047-4C59-A22A-661B4B87789B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakirovRR.Sprint2.Task7.V4.Lib", "Tyuiu.ShakirovRR.Sprint2.Task7.V4.Lib\Tyuiu.ShakirovRR.Sprint2.Task7.V4.Lib.csproj", "{D4138A31-6699-49B2-BA97-65C14CDF37FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakirovRR.Sprint2.Task7.V8.Lib", "Tyuiu.ShakirovRR.Sprint2.Task7.V4.Lib\Tyuiu.ShakirovRR.Sprint2.Task7.V8.Lib.csproj", "{D4138A31-6699-49B2-BA97-65C14CDF37FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakirovRR.Sprint2.Task7.V4.Test", "Tyuiu.ShakirovRR.Sprint2.Task7.V4.Test\Tyuiu.ShakirovRR.Sprint2.Task7.V4.Test.csproj", "{AB24CCC6-D6B6-455E-9539-8F3129F22AB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakirovRR.Sprint2.Task7.V8.Test", "Tyuiu.ShakirovRR.Sprint2.Task7.V4.Test\Tyuiu.ShakirovRR.Sprint2.Task7.V8.Test.csproj", "{AB24CCC6-D6B6-455E-9539-8F3129F22AB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

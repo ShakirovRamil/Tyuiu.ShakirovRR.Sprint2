@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 using tyuiu.cources.programming.interfaces.Sprint2;
 
-namespace Tyuiu.ShakirovRR.Sprint2.Task7.V4.Lib
+namespace Tyuiu.ShakirovRR.Sprint2.Task7.V8.Lib
 {
-    public class DataService : ISprint2Task7V4
+    public class DataService : ISprint2Task7V8
     {
         public bool CheckDotInShadedArea(double x, double y)
         {
             bool res;
 
-            if ((Math.Pow(x, 2) + Math.Pow(y, 2)) <= 1 && ((x <= 0) && (x >= -1)) && (y >= 0) && (y <= 1) && ((x >= 0.3) && (x <= 1)))
+            if ((y - x * x <= 0) && (y <= 4) && (y >= 0) && (x >= 0))
             {
                 res = true;
             }
